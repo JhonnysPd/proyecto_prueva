@@ -1,3 +1,7 @@
 # proyecto_prueva
 
-jhonnys padilla
+##jhonnys javier
+###padilla pitalua
+
+##juan
+###perez
